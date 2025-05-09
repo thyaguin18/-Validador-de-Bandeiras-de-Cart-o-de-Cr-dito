@@ -1,0 +1,4 @@
+- [x] Analisar os requisitos do projeto do validador de cartão de crédito.
+- [x] Pesquisar as bandeiras de cartão de crédito mais comuns e os seus respetivos padrões de números (BINs e comprimentos).
+- [x] Definir a estrutura do projeto e as boas práticas de codificação a serem seguidas (ex: modularização, comentários, tratamento de erros).
+- [x] Implementar a lógica de validação do número do cartão (possivelmente incluindo o algoritmo de Luhn) e a identificação da bandeira usando expressões regulares em Python.
